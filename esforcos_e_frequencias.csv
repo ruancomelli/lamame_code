@@ -1,0 +1,24 @@
+Potencia do motor,183.875,W
+Frequencia do motor,27.0833,Hz
+Frequencia da polia do motor,27.0833,Hz
+Diametro da polia do motor,0.06,m
+Diametro da polia do cambio,0.124,m
+Torque na polia do cambio,2.23311,N.m
+Diametro primitivo do eixo intermediario,0.0512,m
+Frequencia da engrenagem,6.3926,Hz
+Torque na engrenagem,1.14447,N.m
+Potencia da engrenagem,45.9687,W
+Frequencia do pino,2.49616,Hz
+Torque no pino,2.93096,N.m
+Potencia do pino,45.9687,W
+Forca no pino,107.361,N
+Tensao de cisalhamento no pino,2.13588e+06,Pa
+Frequencia do trevo,2.49616,Hz
+Torque no trevo,11.7238,N.m
+Forca no furo do pino do trevo,107.361,N
+tensao cisalhante de arrancar o trevo,488005,[Pa]
+tensao cisalhante de cortar o trevo,813342,[Pa]
+tensao cisalhante de descacoplar o trevo do eixo principal,39179.1,[Pa]
+Frequencia do eixo principal,2.49616,Hz
+Torque no eixo principal,11.7238,N.m
+tensao cisalhante de descacoplar o eixo principal do trevo,39179.1,[Pa]
